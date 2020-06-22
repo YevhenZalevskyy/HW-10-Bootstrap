@@ -1,0 +1,17 @@
+.border {
+  border-color: #DBDBDB;
+}
+
+h2 {
+  line-height: 20px;
+}
+
+.badge-primary {
+  background-color: red;
+  border-radius: 10px;
+  width: 18px;
+}
+
+body {
+  color: #262626;
+}

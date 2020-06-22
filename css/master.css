@@ -1,0 +1,105 @@
+.head {
+  padding-top: 10px;
+  padding-bottom: 12px;
+}
+
+.search {
+  color: #8F8F8F;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+.a {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.circle_sm {
+  position: relative;
+  margin-left: 12px;
+  margin-top: -32px;
+}
+
+.circle_lg {
+  padding: 30px 90px 10px 90px;
+}
+
+.name_wrapp {
+  padding-top: 35px;
+}
+
+.name {
+  padding-right: 30px;
+}
+
+.follow {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.drop {
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+.btn_wrapp {
+  padding-right: 20px;
+}
+
+.lorem {
+max-width: 500px;
+}
+
+.bit {
+  color: #133768;
+  font-weight: 500;
+}
+
+.statistics {
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+
+.circle_md {
+  margin-top: 55px;
+  margin-bottom: 15px;
+}
+
+.circle_md_wrapp {
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-bottom: 40px;
+}
+
+.tagged_text {
+  color: #8f8f8f;
+}
+
+.tagged {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.nav_two {
+  width: 70%;
+}
+
+.svg {
+  margin-right: 5px;
+}
+
+.posts {
+  border-top: solid 1px #262626;
+  margin-right: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.square_row {
+  margin-bottom: 20px;
+  max-width: 80%;
+}
+.squares {
+  flex-direction: column;
+  align-items: center;
+}
